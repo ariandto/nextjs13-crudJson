@@ -29,10 +29,3 @@
 }
 
 // package.json
-{
-  "scripts": {
-    "dev": "NEXT_MANUAL_SIG_HANDLE=true next dev",
-    "build": "next build",
-    "start": "NEXT_MANUAL_SIG_HANDLE=true next start"
-  }
-}
